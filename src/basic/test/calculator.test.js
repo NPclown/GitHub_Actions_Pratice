@@ -1,4 +1,4 @@
-const Calculator = require('../calculator.js');
+const Calculator = require('../../calculator.js');
 
 // 하나의 묶음으로 사용하고 싶을때,
 describe('Calculator', () => {
