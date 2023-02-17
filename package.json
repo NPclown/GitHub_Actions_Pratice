@@ -1,0 +1,26 @@
+{
+  "name": "github_actions_pratice",
+  "version": "1.0.0",
+  "description": "\"# GitHub_Actions_Pratice\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPclown/GitHub_Actions_Pratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NPclown/GitHub_Actions_Pratice/issues"
+  },
+  "homepage": "https://github.com/NPclown/GitHub_Actions_Pratice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.4.0"
+  }
+}
